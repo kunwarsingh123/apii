@@ -1,0 +1,43 @@
+body{
+background-color: rgb(10, 15, 15);     
+}
+.csss{
+    height: 700px;
+    width: 700px;
+    border: 3px solid blue;
+    background-color: blanchedalmond;
+    margin-left: 30%;
+    border-radius: 40px;
+
+}
+#result{
+    display: flex;
+    height:500px ;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 40px;
+    /* margin: 30%; */
+}
+#result:hover{
+    display: flex;
+    height:500px ;
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 40px;
+    box-shadow: 2px 2px 2px burlywood;
+    /* margin: 30%; */
+}
+
+.image{
+    margin: 10%;
+}
+button{
+    margin-left: 10%;
+    border: 3px solid black;
+    border-radius: 30px;
+    
+}
+.button:hover{
+    box-shadow: 2px 2px 2px bisque;
+}
+
